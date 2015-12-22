@@ -1,0 +1,4 @@
+
+注释模板设置：http://jingyan.baidu.com/article/e6c8503c7195b7e54f1a1898.html
+android studio基本设置：http://blog.csdn.net/skykingf/article/details/45485115
+gradle 基础：http://segmentfault.com/a/1190000002439306
